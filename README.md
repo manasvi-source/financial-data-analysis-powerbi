@@ -54,7 +54,7 @@ The objective of this project is to transform financial and sales data into an i
 
 ## 🖼️ Dashboard Preview
 
-![Financial Data Analysis Dashboard](financial-dashboard-preview.png)
+![Financial Data Analysis Dashboard](financial Dashboard preview.png)
 
 ## 👩‍💻 Author
 
