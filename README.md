@@ -54,7 +54,8 @@ The objective of this project is to transform financial and sales data into an i
 
 ## 🖼️ Dashboard Preview
 
-![Financial Data Analysis Dashboard](Financial-Dashboard-preview.png)
+<img width="1306" height="729" alt="Financial Dashboard preview" src="https://github.com/user-attachments/assets/6b327c0b-9a02-4e7b-8a09-6d8fe6f923d8" />
+
 
 ## 👩‍💻 Author
 
